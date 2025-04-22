@@ -1,1 +1,4 @@
 /histopathologic-cancer-detection
+.DS_Store
+/cnn_tuning
+/resnet_tuning
